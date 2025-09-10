@@ -18,7 +18,7 @@ This repository serves as my **portfolio**, summarizing the projects I have work
 
 ## 🏢 Professional Experience & Projects
 
-### 🔹 Artha Solution
+### 🔹 Artha Solutions
 
 **Project Internal**  
 - **Room Meeting Booking Application** *(Oct 2023 – Dec 2023)*  
