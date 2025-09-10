@@ -32,24 +32,24 @@ This repository serves as my **portfolio**, summarizing the projects I have work
 
 **Project External**   
 - **XLSmart – POC** *(Jakarta, Indonesia, Remote, May 2025)*  
-- Built ETL jobs and implemented business rules in Talend Studio, migrating data from **Amazon S3 → Snowflake**.  
-- Published jobs and scheduled them in **Talend Management Console (TMC)**.  
-- [🔗 Repository Link](https://github.com/hamidi20/xlsmart_poc)  
+  - Built ETL jobs and implemented business rules in Talend Studio, migrating data from **Amazon S3 → Snowflake**.  
+  - Published jobs and scheduled them in **Talend Management Console (TMC)**.  
+  - [🔗 Repository Link](https://github.com/hamidi20/xlsmart_poc)  
 
 - **SBST Transit** *(Singapore, Remote, May 2025 – Jun 2025)*  
-- Installed and configured **Talend Data Management Platform**.  
-- Installed and configured **Qlik Sense**.  
-- Designed ETL ingestion pipelines from `.csv` & `.txt` → **PostgreSQL**.  
-- Developed **sample dashboards** in Qlik Sense.  
-- [🔗 Repository Link](https://github.com/hamidi20/sbst_project)  
+  - Installed and configured **Talend Data Management Platform**.  
+  - Installed and configured **Qlik Sense**.  
+  - Designed ETL ingestion pipelines from `.csv` & `.txt` → **PostgreSQL**.  
+  - Developed **sample dashboards** in Qlik Sense.  
+  - [🔗 Repository Link](https://github.com/hamidi20/sbst_project)  
 
 - **YAZAKI** *(Jakarta, Indonesia, Onsite, Apr 2024 – Current)*  
-- Installed and configured **Talend Data Management Platform**.  
-- Ingested data from multiple sources into the **Data Lake**.  
-- Performed **data mastering and cleansing** for **Data Warehouse & Datamart** layers.  
-- Developed ETL jobs based on business requirements.  
-- Managed job scheduling and monitoring in **Talend Administration Center (TAC)**.  
-- [🔗 Repository Link]([#](https://github.com/hamidi20/yazaki_project))  
+  - Installed and configured **Talend Data Management Platform**.  
+  - Ingested data from multiple sources into the **Data Lake**.  
+  - Performed **data mastering and cleansing** for **Data Warehouse & Datamart** layers.  
+  - Developed ETL jobs based on business requirements.  
+  - Managed job scheduling and monitoring in **Talend Administration Center (TAC)**.  
+  - [🔗 Repository Link]([#](https://github.com/hamidi20/yazaki_project))  
 
 - **ITM – POC** *(Feb 2024)*  
   - Created ETL jobs and implemented business rules in Talend Studio, migrating data from **MySQL → SQL Server**.  
