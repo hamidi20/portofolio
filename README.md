@@ -49,7 +49,7 @@ This repository serves as my **portfolio**, summarizing the projects I have work
   - Performed **data mastering and cleansing** for **Data Warehouse & Datamart** layers.  
   - Developed ETL jobs based on business requirements.  
   - Managed job scheduling and monitoring in **Talend Administration Center (TAC)**.  
-  - [🔗 Repository Link]([#](https://github.com/hamidi20/yazaki_project))  
+  - [🔗 Repository Link](https://github.com/hamidi20/yazaki_project)  
 
 - **ITM – POC** *(Feb 2024)*  
   - Created ETL jobs and implemented business rules in Talend Studio, migrating data from **MySQL → SQL Server**.  
